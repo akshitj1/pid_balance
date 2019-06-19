@@ -1,0 +1,5 @@
+*.hex
+*.bin
+*.eep
+*.elf
+*.tags
